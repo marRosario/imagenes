@@ -37,7 +37,7 @@ main{
  }
  .mensaje{
     background: white;
-    background-image: url("imagenes/Muñeco.png");
+    background-image: url("imagen/Muñeco.png");
     background-repeat: no-repeat; /*para que la imagen no se repita*/
     border: none;
     border-radius: 24px;
